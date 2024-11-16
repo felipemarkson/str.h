@@ -1,0 +1,4 @@
+test
+testd
+*.o
+.vscode/*
